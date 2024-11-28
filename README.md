@@ -8,10 +8,3 @@ Relational database integration using Django ORM.
 Getting Started
 Follow the steps below to set up the environment, run the project, and upload it to GitHub.
 
-1. Prerequisites
-Ensure the following are installed on your system:
-
-Python (version 3.8 or higher)
-pip (Python package manager)
-Git
-Virtualenv (optional but recommended)
